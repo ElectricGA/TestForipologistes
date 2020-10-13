@@ -1,0 +1,42 @@
+			body {
+				background-color: gray;
+				width: 50%;
+				margin: auto;
+			}
+
+			img {
+				width: 30%;
+				height: 30%
+			}
+
+			h2 {
+				text-align: center;
+			}
+
+			p {
+				color: cyan;
+			}
+
+			ul {
+				color: mistyrose;
+			}
+
+			i {
+				color: blue;
+			}
+
+			tr {
+				color: red;
+			}
+
+			ol {
+				color: black;
+			}
+
+			li {
+				color: black;
+			}
+
+			.yeet {
+				color: blueviolet;
+			}
